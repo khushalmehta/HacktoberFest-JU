@@ -53,7 +53,7 @@
 | Jaidev Tyagi |     |      |        |         |
 | Kartik Paliwal |     |      |        |         |
 | Kashish Nagpal |     |      |        |         |
-| Khushal Mehta |     |      |        |         |
+| Khushal Mehta |  I   | CSE     | <a href="https://www.github.com/khushalmehta" target="_blank">khushalmehta</a>       |         |
 | Kirti Bajaj |     |      |        |         |
 | kishan Gupta |     |      |        |         |
 | Kratik Vijay |     |      |        |         |
